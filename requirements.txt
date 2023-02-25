@@ -1,0 +1,7 @@
+ip2geotools==0.1.6
+Pillow==8.4.0
+pyqiwi==0.2.0
+PyQt5==5.15.6
+pywin32==302
+qiwipy==2.1.6
+requests==2.26.0
